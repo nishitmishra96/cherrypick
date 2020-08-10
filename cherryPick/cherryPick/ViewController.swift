@@ -17,6 +17,10 @@ class ViewController: UIViewController {
         print("b")
         print("c")
         print("d")
+        print("e")
+        print("f")
+        print("g")
+        print("h")
     }
 
 
